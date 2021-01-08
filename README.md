@@ -1,2 +1,2 @@
 # image-holder
-hosts my images
+Hosts images for my personal website
